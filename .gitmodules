@@ -1,0 +1,6 @@
+[submodule "serverApp"]
+	path = serverApp
+	url = git@github.com:HamaguchiKazuki/serverApp.git
+[submodule "clientApp"]
+	path = clientApp
+	url = git@github.com:HamaguchiKazuki/clientApp.git
